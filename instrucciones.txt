@@ -1,0 +1,37 @@
+
+Página
+7
+de 7
+Analítica de datos y
+herramientas de inteligencia
+artificial II
+UF6. Desarrollo Web para Apps de
+Analítica
+UF6.3.Despliegue Web – Git y Github
+parte2
+Profr. Gustavo Romero
+Comandos básicos git: general
+Comandos básicos git: ramas
+Comandos básicos git: eliminar
+Comandos básicos git/github
+Comandos básicos git/github
+Ejercicio git
+1. Crea una carpeta nueva llamada “ejercicio” e inicializa el repositorio
+2. Crea un archivo "instrucciones.txt" con este contenido y pégalo en la carpeta del repositorio
+3. Añada al directorio de trabajo un archivo de texto llamado “file-1.txt” que contenga algo
+4. Crea un segundo archivo de texto llamado “file-2.txt”
+5. Añade "file-1.txt" y "file-2.txt" al staging area pero no añadas "instrucciones.txt"
+6. Cambia el texto inicial que añadiste al archivo "file-1.txt"
+7. Ahora añade todos los archivos en el directorio de trabajo al staging area
+8. Crea el primer commit
+9. Crea una segunda rama llamada “rama2”
+10. Añade un tercer archivo de texto ("file-3.txt") a esta nueva rama
+11. Realiza un nuevo commit de todos los archivos en esta rama (require primero add y luego commit)
+12. Añade el siguiente texto al archivo "file-3": “Seré eliminado"
+13. Añade el archivo modificado al staging area
+14. Deshaz el último cambio staged (implica dos comandos)
+15. Añade el siguiente texto al archivo “file-1.txt”: “Añademe a la rama master/main"
+16. Haz un commit del último cambio
+17. Cámbiate entre ramas master y rama2 y verifica
+18. Realiza un merge de la rama “master” (ó “main”) con “rama2”
+19. Elimina la rama “rama2”
