@@ -1,0 +1,2 @@
+Hola mundo # Sobrescribe todo
+Otra línea # Agrega sin borrar lo anterio
